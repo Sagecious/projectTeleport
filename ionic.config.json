@@ -1,0 +1,8 @@
+{
+  "name": "projectTeleport",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "38b6cd70"
+}
